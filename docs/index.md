@@ -5,9 +5,12 @@ title: Home
 
 ## The House of Cardano 
 
-- Content Creators / Educators
+- [Content Creators / Educators](https://www.cardano.build/#yt)
 - Resources
     - Getting Started
+        - [Tech](https://www.cardano.build/#new-to-cardano)
+        - [Getting On-Chain](https://www.selfdriven.support/guides/getting-on-chain/)
+        - [Cardano Wallets](https://cardanowallets.io)
     - [Building](https://cardano.build)
     - [Events](https://cardano.events)
 
