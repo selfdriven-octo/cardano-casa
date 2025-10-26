@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## The Casa (House) of Cardano 
+## The House of Cardano 
 
 - Content Creators / Educators
 - Resources

@@ -1,4 +1,4 @@
-## The Casa (House) of Cardano 
+## The House of Cardano 
 
 **Community run index covering:**
 - Content Creators / Educators
