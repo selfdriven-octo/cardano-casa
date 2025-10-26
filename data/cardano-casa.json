@@ -1,0 +1,18 @@
+{
+	"cardano": {
+		"casa": {
+			"schema": {},
+			"data":
+			{
+				"educators":
+				[
+					{
+						"name": "Cardano Foundation",
+						"url": "https://cardano.org",
+						"type": "organisation"
+					}
+				]
+			}
+		}
+	}
+}
