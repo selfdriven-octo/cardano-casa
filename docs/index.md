@@ -5,7 +5,7 @@ title: Home
 
 ## The House of Cardano 
 
-- [Content Creators / Educators](https://www.cardano.build/#yt)
+- [Content Creators / Educators](/creators/education/)
 - Resources
     - Getting Started
         - [Tech](https://www.cardano.build/#new-to-cardano)
