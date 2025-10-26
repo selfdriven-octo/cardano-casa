@@ -14,6 +14,10 @@ title: Home
 ### Resources
 - [Github Repo Casa (House) Data](https://github.com/selfdriven-octo/cardano-casa/tree/main/data)
 
-### Roadmap
+### Roadmap - Next 3:
+- Engage with the Cardano Community
+- Consolidate data from other sources.
 - Add a view of the casa (house) data.
 
+---
+Supported by the [selfdriven.foundation](https://selfdriven.foundation)
