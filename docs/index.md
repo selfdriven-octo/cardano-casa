@@ -13,8 +13,8 @@ title: Home
     - [Events](https://cardano.events)
     - [Start Up](/resources/startup/)
 
-### Resources
-- [Github Repo Casa (House) Data](https://github.com/selfdriven-octo/cardano-casa/tree/main/data)
+### Data
+- [Github Repo Casa (House) Index Data](https://github.com/selfdriven-octo/cardano-casa/tree/main/data)
 
 ### Roadmap - Next 3:
 - Engage with the Cardano Community
