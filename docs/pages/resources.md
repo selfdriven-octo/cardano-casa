@@ -6,4 +6,4 @@ permalink: /resources/startup/
 
 ### Design
 
-[meepo.design](https://meepo.design/)
+- [meepo.design](https://meepo.design/)
