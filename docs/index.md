@@ -13,6 +13,7 @@ title: Home
         - [Cardano Wallets](https://cardanowallets.io)
     - [Building](https://cardano.build)
     - [Events](https://cardano.events)
+    - [Start Up](/resources/startup/)
 
 ### Resources
 - [Github Repo Casa (House) Data](https://github.com/selfdriven-octo/cardano-casa/tree/main/data)
