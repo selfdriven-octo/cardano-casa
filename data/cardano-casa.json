@@ -11,6 +11,13 @@
 						"url": "https://cardano.org",
 						"type": "organisation"
 					}
+				],
+				"startup":
+				[
+						{
+							"name": "Meepo Design",
+							"url": "https://meepo.design",
+							"type": "organisation"
 				]
 			}
 		}
