@@ -19,7 +19,7 @@ title: Home
 ### Roadmap - Next 3:
 - Engage with the Cardano Community
 - Consolidate data from other sources.
-- Add a view of the casa (house) data.
+- Website visual design update, including view of the casa (house) data.
 
 ---
 Supported by the [selfdriven.foundation](https://selfdriven.foundation)
