@@ -7,11 +7,9 @@ title: Home
 
 - [Content Creators / Educators](/creators/education/)
 - Resources
-    - Getting Started
-        - [Tech](https://www.cardano.build/#new-to-cardano)
-        - [Getting On-Chain](https://www.selfdriven.support/guides/getting-on-chain/)
-        - [Cardano Wallets](https://cardanowallets.io)
-    - [Building](https://cardano.build)
+    - [Building On Cardano](https://www.cardano.build)
+    - [Getting On-Chain](https://www.selfdriven.support/guides/getting-on-chain/)
+    - [Cardano Wallets](https://cardanowallets.io)
     - [Events](https://cardano.events)
     - [Start Up](/resources/startup/)
 
