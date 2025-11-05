@@ -14,7 +14,7 @@ title: Home
     - [Start Up](/resources/startup/)
 
 ### Data
-- [Github Repo Casa (House) Index Data](https://github.com/selfdriven-octo/cardano-casa/tree/main/data)
+- [cardano-casa Github Repo](https://github.com/selfdriven-octo/cardano-casa/) - index data, resources, docs etc
 
 ### Roadmap - Next 3:
 - Engage with the Cardano Community
